@@ -14,3 +14,11 @@ git branch -M main
 #one time per repo
 git remote add origin https://github.com/nahidul4007/PH-CODE.git
 git push -u origin main
+
+
+
+
+
+git add . > protibar
+git commit -m "comit lekte ho e "
+git push lekte hobe . 
