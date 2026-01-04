@@ -1,0 +1,16 @@
+# ONE TIME EACH PRODUCT TO START GIT 
+git init
+
+
+# EVERY TIME TO ADD
+git add .
+
+
+git commit -m "first commit"
+
+
+git branch -M main
+
+#one time per repo
+git remote add origin https://github.com/nahidul4007/PH-CODE.git
+git push -u origin main
