@@ -1,0 +1,22 @@
+.card-main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card-container{
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgba(208, 18, 18, 0.492);
+    margin: 10px;
+
+}
+.card-main .card-container:hover{
+    background-color: whitesmoke;
+}
+.card-container img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgba(0,0,0,0.1);
+}
