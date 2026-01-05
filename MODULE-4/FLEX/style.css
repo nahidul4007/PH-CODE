@@ -1,0 +1,29 @@
+.container div{
+    border: 2px solid green;
+    height: 50px;
+    font-size: 3em;
+    width: 500px;
+}
+.container{
+    display: flex;
+}
+.box-contaner{
+    display: flex;
+}
+.box{
+    font-size: 4em;
+    height: 150px;
+    width: 150px;
+    border: 2px solid greenyellow;
+}
+.box-card{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    border: 2px solid red;
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+
+}

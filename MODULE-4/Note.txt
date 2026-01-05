@@ -1,0 +1,8 @@
+RUN WITH SHORTCUT 
+
+
+.box{$}*6
+
+text with run 
+
+.box{user-$}*5
