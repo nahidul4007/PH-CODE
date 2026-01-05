@@ -6,3 +6,6 @@ RUN WITH SHORTCUT
 text with run 
 
 .box{user-$}*5
+
+
+list*4>a

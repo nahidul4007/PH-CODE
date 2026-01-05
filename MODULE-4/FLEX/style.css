@@ -27,3 +27,17 @@
     background-color: lightgray;
 
 }
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 5px;    
+
+}
+.user{
+    border: 2px solid red;
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+
+}
