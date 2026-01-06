@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #e9c7e7b0;
+    margin: 30px;
+}
+.logo {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 45px;
+}
+.orrange {
+    color: #FD6E0A;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+.nav-links ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.nav-links ul li a {
+    text-decoration: none;
+    color: blueviolet;
+    cursor: pointer;
+}
+.nav-links ul li a:hover {
+    color: #FD6E0A;
+}
+.nav-links ul button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.nav-links ul button:hover {
+    background-color: rgb(199, 111, 4);
+}
+.header-content-left {
+    margin-top: 100px;
+
+}
+.header-content-left h3 {
+    font-size: 30px;
+}
+.header-content-left h1 {
+    color: #fd6f0aad;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.header-content-left p {
+    font-size: 25px;
+    margin: 20px 0;
+    color: #333;
+}       
+.header-content-left button {
+    display: inline-flex;
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.home-header{
+    background-color: red;
+     
+}
+.action {
+    background-color: yellow;
+     padding: 50px 0;
+}
+.action section {
+   display: grid;
+   gap: 40px;
+}
+.form-massage {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img-box {
+    display: grid;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    border: 8px solid #FD6E0A;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
